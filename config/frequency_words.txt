@@ -165,8 +165,6 @@ Paris
 France
 Lyon
 
-日本
-
 INSA
 
 芯片
@@ -218,3 +216,5 @@ github
 
 留学生
 海归
+
+日本
