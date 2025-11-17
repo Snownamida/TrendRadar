@@ -1,3 +1,67 @@
+南极
+
+北极
+
+妖精的尾巴
+
+妖精的旋律
+
+寒蝉鸣泣之时
+海猫鸣泣之时
+龙骑士
+
+Atri
+
+cave story
+
+enter the gungeon
+挺进地牢
+
+falcom
+空之轨迹
+零之轨迹
+碧之轨迹
+英雄传说
+
+muv luv
+
+美少女万花镜
+美少女万华镜
+
+火星
+水星
+金星
+木星
+土星
+天王星
+海王星
+
+原神
+genshin
+mihoyo
+米哈游
+
+baba is you
+
+文字游戏
+文字遊戲
+Team9
+
+仙剑奇侠传
+
+原子之心
+Atomic Heart
+
+动物井
+Animal Well
+
+TrendRadar
+Newsnow
+
+尼尔机械纪元
+
+沙耶之歌
+
 greenly
 
 tractebel
@@ -16,6 +80,7 @@ Magenta Factory
 南京
 
 ddlc
+Doki Doki Literature Club
 
 索尼
 sony
@@ -133,6 +198,9 @@ NVIDIA
 
 AMD
 苏姿丰
+
+intel
+英特尔
 
 谷歌
 google
