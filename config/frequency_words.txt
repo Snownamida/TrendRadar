@@ -1,53 +1,70 @@
 南极
-
+Antarctica
 北极
+Arctic
 
 妖精的尾巴
+Fairy Tail
 
 妖精的旋律
+Mermaid Melody
 
 寒蝉鸣泣之时
 海猫鸣泣之时
+Higurashi When They Cry
+Umineko When They Cry
 龙骑士
+Dragon Knight
 
 Atri
 
-cave story
+Cave Story
+洞穴物语
 
-enter the gungeon
+Enter the Gungeon
 挺进地牢
 
-falcom
+Falcom
 空之轨迹
+The Legend of Heroes
 零之轨迹
 碧之轨迹
 英雄传说
+Trails Series
 
-muv luv
+Muv-Luv
 
 美少女万花镜
 美少女万华镜
+Bishoujo Mangekyou
 
 火星
+Mars
 水星
+Mercury
 金星
+Venus
 木星
+Jupiter
 土星
+Saturn
 天王星
+Uranus
 海王星
+Neptune
 
 原神
-genshin
-mihoyo
+Genshin
 米哈游
+miHoYo
 
-baba is you
-
+Baba Is You
 文字游戏
 文字遊戲
 Team9
 
 仙剑奇侠传
+Chinese Paladin
 
 原子之心
 Atomic Heart
@@ -56,18 +73,20 @@ Atomic Heart
 Animal Well
 
 TrendRadar
-Newsnow
+NewsNow
 
 尼尔机械纪元
+NieR: Automata
 
 沙耶之歌
+Saya no Uta
 
-greenly
+Greenly
 
-tractebel
+Tractebel
 
 传送门
-portal
+Portal
 
 洋红工房
 Magenta Factory
@@ -78,36 +97,40 @@ Magenta Factory
 山桂2
 
 南京
+Nanjing
 
-ddlc
 Doki Doki Literature Club
+DDLC
 
 索尼
-sony
-ps
-playstation
+Sony
+PS
+PlayStation
+PS5
 
 任天堂
-nintendo
-switch
+Nintendo
+Switch
 
-xbox
+Xbox
 
 图寻
 
 我的世界
-minecraft
+Minecraft
 
 程序员
 
-ever17
+Ever17
 
-galgame
+Galgame
+Visual Novel
+VN
 
 夏日口袋
 Summer Pockets
 
-steam
+Steam
 
 星露谷
 Stardew Valley
@@ -117,15 +140,19 @@ Stardew
 Fallout
 
 地铁
+Metro
 
 最后生还者
 美国末日
 The Last of Us
+TLOU
 
 日在校园
+School Days
 
 新世纪福音战士
 EVA
+Evangelion
 
 bilibili
 哔哩哔哩
@@ -133,16 +160,20 @@ bilibili
 ⑨bishi
 碧诗
 陈睿
-b站
+B站
+Bili
 
 a站
-acfun
+AcFun
 
 周四推理俱乐部
+The Thursday Murder Club
 
 大楼里只有谋杀
+Only Murder in the Building
 
 弹丸论破
+Danganronpa
 
 DeepSeek
 梁文锋
@@ -151,9 +182,11 @@ DeepSeek
 鸿蒙
 HarmonyOS
 任正非
+Huawei
 
 比亚迪
 王传福
+BYD
 
 大疆
 DJI
@@ -168,26 +201,35 @@ DJI
 
 黑神话
 冯骥
+Black Myth
 
 逆转裁判
-巧舟
+Ace Attorney
+Gyakuten Saiban
 
 三体
 流浪地球
 刘慈欣
 郭帆
+The Three-Body Problem
+Liu Cixin
+The Wandering Earth
 
 申奥
+Olympic Bid
 
 京东
 刘强东
+JD.com
 
 字节
-bytedance
+ByteDance
 张一鸣
 
 特斯拉
 马斯克
+Tesla
+Elon Musk
 
 微软
 Microsoft
@@ -195,35 +237,38 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
+Jensen Huang
 
 AMD
 苏姿丰
 
-intel
+Intel
 英特尔
 
 谷歌
-google
-gemini
-deepmind
+Google
+Gemini
+DeepMind
 
-chatgpt
-openai
-sora
+ChatGPT
+OpenAI
+Sora
 
-claude
+Claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+iPhone
+iPad
+Mac
+iOS
 
-ai
-!gai
+AI
 人工智能
+!gai
 
 自动驾驶
+Autonomous Driving
+Self-driving Car
 
 法国
 里昂
@@ -232,57 +277,82 @@ ai
 Paris
 France
 Lyon
+EU
 
 INSA
 
 芯片
 光刻
+Semiconductor
+Lithography
 
 科技
+Technology
 
 核能
 核聚变
+Nuclear
+Fusion Energy
 
 量子计算
+Quantum Computing
 
 水电站
 雅鲁藏布江
+Hydropower
+Yarlung Tsangpo
 
 新质生产力
 
 月球
 登月
-火星
+Moon
+Lunar Exploration
+
 宇宙
 飞船
 航空
-nasa
-月壤
-火箭
-发射
+Space
+Spaceship
+Aerospace
+NASA
+Moon Soil
+Rocket Launch
 
 航天
 飞机
 波音
 空客
 C919
+Aviation
+Boeing
+Airbus
 
 铁路
 高铁
 火车
+Train
+High-speed Rail
 
 小米
 雷军
 红米
 紫米
 酷态科
+Xiaomi
 
-github
+GitHub
 
 就业
 求职
+Job Hunting
+Career
 
 留学生
 海归
+International Student
+Returnee
 
 日本
+Japan
+Tokyo
