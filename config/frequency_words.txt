@@ -1,3 +1,101 @@
+梦核
+旧核
+池核
+
+模拟人生
+The Sims
+
+极乐迪斯科
+Disco Elysium
+
+空洞骑士
+Hollow Knight
+
+蔚蓝
+Celeste
+
+命运石之门
+Steins;Gate
+石头门
+
+混沌之脑
+Chaos;Head
+
+命运/冠位指定
+FGO
+Fate/Grand Order
+月姬
+Tsukihime
+Fate
+型月
+Type-Moon
+
+魔法少女小圆
+Madoka Magica
+
+Re:从零开始的异世界生活
+Re:Zero
+
+刀剑神域
+SAO
+
+进击的巨人
+Attack on Titan
+
+紫罗兰永恒花园
+Violet Evergarden
+
+来自深渊
+Made in Abyss
+
+Unity
+Unreal Engine
+UE5
+
+死亡笔记
+Death Note
+
+黑执事
+Black Butler
+
+推理小说
+Agatha Christie
+东野圭吾
+Keigo Higashino
+
+密室
+本格推理
+推理剧
+
+暗黑游戏叙事
+Dark Narrative Games
+
+台积电
+TSMC
+
+ASML
+极紫外光刻
+EUV Lithography
+
+阿里巴巴
+Alibaba
+
+腾讯
+Tencent
+
+三星
+Samsung
+
+银翼杀手
+Blade Runner
+
+星际穿越
+Interstellar
+
+Vocaloid
+初音未来
+Hatsune Miku
+
 南极
 Antarctica
 北极
@@ -122,6 +220,8 @@ Minecraft
 程序员
 
 Ever17
+Never7
+Remember11
 
 Galgame
 Visual Novel
@@ -131,6 +231,7 @@ VN
 Summer Pockets
 
 Steam
+Valve
 
 星露谷
 Stardew Valley
@@ -293,6 +394,9 @@ Technology
 核聚变
 Nuclear
 Fusion Energy
+ITER
+核裂变
+Fission Energy
 
 量子计算
 Quantum Computing
@@ -318,6 +422,15 @@ Aerospace
 NASA
 Moon Soil
 Rocket Launch
+SpaceX
+Starship
+Starlink
+Blue Origin
+嫦娥工程
+Chang’e Program
+天问
+火星探测
+Mars Rover
 
 航天
 飞机
